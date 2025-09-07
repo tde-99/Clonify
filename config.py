@@ -27,8 +27,8 @@ ASSUSERNAME = getenv("ASSUSERNAME" , "AqiaPro")
 
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-API_URL = getenv("API_URL")
-API_KEY = getenv("API_KEY")
+API_URL = getenv("API_URL", "https://deadlinetech.site")
+API_KEY = getenv("API_KEY", "mMWZi70055MHalPmnGkE")
 
 MONGO_DB_URI = getenv("MONGO_DB_URI")
 API_KEY = getenv("API_KEY")
