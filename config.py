@@ -19,16 +19,15 @@ OWNER_USERNAME = getenv("OWNER_USERNAME","Living_in_delusions")
 # --------------------------------------------------------
 BOT_USERNAME = getenv("BOT_USERNAME" , "Streamvc_bot")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "Aqia")
+BOT_NAME = getenv("BOT_NAME" , "Streamvc_bot")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "AqiaPro")
+ASSUSERNAME = getenv("ASSUSERNAME" , "StreamVc_Assistant")
 # ---------------------------------------------------------
 
 
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 API_URL = getenv("API_URL", "https://deadlinetech.site")
-API_KEY = getenv("API_KEY", "mMWZi70055MHalPmnGkE")
 
 MONGO_DB_URI = getenv("MONGO_DB_URI")
 API_KEY = getenv("API_KEY")
