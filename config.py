@@ -27,6 +27,9 @@ ASSUSERNAME = getenv("ASSUSERNAME" , "AqiaPro")
 
 #---------------------------------------------------------------
 #---------------------------------------------------------------
+API_URL = getenv("API_URL")
+API_KEY = getenv("API_KEY")
+
 MONGO_DB_URI = getenv("MONGO_DB_URI")
 API_KEY = getenv("API_KEY")
 #---------------------------------------------------------------
